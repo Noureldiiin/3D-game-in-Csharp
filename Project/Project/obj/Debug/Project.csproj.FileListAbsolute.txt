@@ -1,0 +1,9 @@
+D:\MSA\Graphics 2\Project\Project\bin\Debug\Project.exe.config
+D:\MSA\Graphics 2\Project\Project\bin\Debug\Project.exe
+D:\MSA\Graphics 2\Project\Project\bin\Debug\Project.pdb
+D:\MSA\Graphics 2\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\MSA\Graphics 2\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\MSA\Graphics 2\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\MSA\Graphics 2\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\MSA\Graphics 2\Project\Project\obj\Debug\Project.exe
+D:\MSA\Graphics 2\Project\Project\obj\Debug\Project.pdb
